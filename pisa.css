@@ -1,0 +1,152 @@
+/* pisa.css */
+
+titleStmt{display:block;
+text-align: center;
+font-weight: bold;
+font-size: 150%
+line-height: 200%;
+font-family: Arial, Helvetica;
+}
+
+
+publicationStmt{display:block;
+text-align: center;
+font-size: 0%;
+line-height: 150%;
+font-family: Arial, Helvetica;
+}
+
+notesStmt{font-size: 0%;
+}
+
+sourceDesc{
+font-size: 0%;
+color: transparent;
+}
+
+creation{
+display:block;
+font-size: 85%;
+font-family: Arial, Helvetica;
+color: gray;
+}
+
+person{font-family: Arial, Helvetica;
+display:block;
+font-size: 85% ;
+color: gray;
+}
+
+revisionDesc{
+font-size: 0%;
+}
+
+castItem{display:block;
+}
+
+front{font-family: Arial, Helvetica;
+font-size: 85%;
+line-height: 140%;
+text-align: justify;
+background-color:#FBFBFB
+}
+
+body{font-family: Arial, Helvetica;
+font-size: 100%;
+line-height: 140%;
+text-align: justify;
+background-color:#FBFBFB}
+
+a{  
+        text-decoration: none;     
+        font-size: 100%;
+        font-family: sans-serif;
+}
+a:visited{ 
+        text-decoration: none;     
+        font-size: 100%;
+        font-family: sans-serif;
+        color:blue
+}
+h2{
+line-height: 150%;
+}
+
+h3{
+line-height: 200%;
+}
+
+div1{
+display:block;
+text-align: justify;
+}
+
+l{
+display:block;
+}
+
+p{
+display:block;
+}
+
+
+head
+{  font-weight: bold;
+font-size: 100%;
+display:block;
+
+}
+
+speaker{
+font-weight: bold;
+font-size: 80%;
+display:block;
+}
+
+stage{
+font-style: italic;
+}
+
+note{
+font-size: 75%;
+color: gray;
+
+text-align: right;
+}
+
+lb{display:block;
+}
+
+term{
+display:block;
+}
+
+descrip
+{
+display:block;
+font-size: 85%;
+
+}
+
+.parlante
+{
+display:block;
+font-weight: bold;
+}
+
+.scuola
+{
+display:block;
+font-weight: bold;
+text-decoration: underline;
+}
+
+div1[type="punto di inchiesta"]
+{
+display:block;
+font-style: italic;
+text-decoration: none;
+
+}
+/* */
+
